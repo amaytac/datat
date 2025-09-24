@@ -61,7 +61,7 @@
       "title": "New York Public Radio",
       "artist": "WNYC",
       "description": "News, Shows & Analysis",
-      "streamUrl": "https://njpr.wnyc.org/wnycfm"",
+      "streamUrl": "https://njpr.wnyc.org/wnycfm",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio08.png"
     },
         {
@@ -109,3 +109,4 @@
 }
 
        
+
