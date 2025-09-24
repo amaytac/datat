@@ -1,24 +1,111 @@
 {
   "stations": [
     {
-      "mediaId": "001",
-      "title": "Morning Jazz",
-      "artist": "Various Artists",
-      "description": "Smooth jazz to start your day",
-      "stationName": "Jazz FM",
-      "resIcon": 2131165290,
+      "id": "bbc_radio_one",
+      "title": "Radio 1",
+      "artist": "BBC",
+      "description": "Music, shows, cultural",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8",
-      "artWorkUri": ""
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio01.png"
+    },
+        {
+      "id": "bbc_radio_two",
+      "title": "Radio 2",
+      "artist": "BBC",
+      "description": "Music, Show & Talk",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio02.png"
+    },
+        {
+      "id": "bbc_radio_three",
+      "title": "Radio 3",
+      "artist": "BBC",
+      "description": "Classical Music, Culture",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio03.png"
+    },
+        {
+      "id": "bbc_radio_fourfm",
+      "title": "Radio 4",
+      "artist": "BBC",
+      "description": "News, Dramaa & Factual",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio04.png"
     },
     {
-      "mediaId": "002",
-      "title": "Top Hits",
-      "artist": "Various Artists",
-      "description": "Today's most popular songs",
-      "stationName": "Hit Radio",
-      "resIcon": 2131165291,
-      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8",
-      "artWorkUri": null
+      "id": "bbc_bowld_service",
+      "title": "World Service",
+      "artist": "BBC",
+      "description": "Global News & Analysis",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio05.png"
+    },
+        {
+      "id": "lbc_news_live",
+      "title": "Where News Never Stops",
+      "artist": "LBC",
+      "description": "UK News & Analysis",
+      "streamUrl": "https://media-ssl.musicradio.com/LBCUK",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio06.png"
+    },
+        {
+      "id": "lbc_news_uk",
+      "title": "Leading Britain's Conversation",
+      "artist": "LBC",
+      "description": "UK News & Analysis",
+      "streamUrl": "https://media-ssl.musicradio.com/LBCNewsUK",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio07.png"
+    },
+        {
+      "id": "us_wnyc",
+      "title": "New York Public Radio",
+      "artist": "WNYC",
+      "description": "News, Shows & Analysis",
+      "streamUrl": "https://njpr.wnyc.org/wnycfm"",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio08.png"
+    },
+        {
+      "id": "lbc_classic_fm",
+      "title": "Classic FM",
+      "artist": "LBC",
+      "description": "Classic Music & High Culture",
+      "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio09.png"
+    },
+        {
+      "id": "cnn_int",
+      "title": "News: International",
+      "artist": "CNN",
+      "description": "News & Analysis",
+      "streamUrl": "https://tunein.cdnstream1.com/3519_96.aac",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio10.png"
+    },
+        {
+      "id": "us_fox_new",
+      "title": "News US",
+      "artist": "FOX",
+      "description": "News & Analysis",
+      "streamUrl": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio11.png"
+    },
+        {
+      "id": "en_al_jazeera",
+      "title": "English News",
+      "artist": "Al Jazeera",
+      "description": "English News & Documentaries",
+      "streamUrl": "https://live-hls-aje-ak.getaj.net/AJE/06.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio12.png"
+    },
+            {
+      "id": "ar_al_jazeera",
+      "title": "Arabic News",
+      "artist": "Al Jazeera",
+      "description": "Arabic News & Documentaries",
+      "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
     }
+    
   ]
 }
+
+       
