@@ -1,0 +1,24 @@
+{
+  "stations": [
+    {
+      "mediaId": "001",
+      "title": "Morning Jazz",
+      "artist": "Various Artists",
+      "description": "Smooth jazz to start your day",
+      "stationName": "Jazz FM",
+      "resIcon": 2131165290,
+      "streamUrl": "https://example.com/jazzfm/stream",
+      "artWorkUri": "https://example.com/jazzfm/artwork.jpg"
+    },
+    {
+      "mediaId": "002",
+      "title": "Top Hits",
+      "artist": "Various Artists",
+      "description": "Today's most popular songs",
+      "stationName": "Hit Radio",
+      "resIcon": 2131165291,
+      "streamUrl": "https://example.com/hitradio/stream",
+      "artWorkUri": null
+    }
+  ]
+}
