@@ -122,7 +122,7 @@
       "title": "NTV Haber",
       "artist": "NTV",
       "description": "News & Analysis",
-      "streamUrl": "https://ntvrdwmp.radyotvonline.com/stream",
+      "streamUrl": "http://ntvrdsc.radyotvonline.com/stream",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio17.png"
     },            {
       "id": "tr_kafa_radyo",
@@ -145,6 +145,7 @@
 }
 
        
+
 
 
 
