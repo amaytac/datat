@@ -118,11 +118,11 @@
       "streamUrl": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio16.png"
     },            {
-      "id": "tr_ntv_radyo",
-      "title": "NTV Haber",
-      "artist": "NTV",
+      "id": "tr_haber_turk",
+      "title": "Haber Türk",
+      "artist": "HT",
       "description": "News & Analysis",
-      "streamUrl": "http://ntvrdwmp.radyotvonline.com/;",
+      "streamUrl": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio17.png"
     },            {
       "id": "tr_kafa_radyo",
@@ -145,6 +145,7 @@
 }
 
        
+
 
 
 
