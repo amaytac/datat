@@ -20,7 +20,7 @@
       "id": "bbc_radio_three",
       "title": "Radio 3",
       "artist": "BBC",
-      "description": "Classical Music, Culture",
+      "description": "Classical Music, High Culture",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio03.png"
     },
@@ -28,7 +28,7 @@
       "id": "bbc_radio_fourfm",
       "title": "Radio 4",
       "artist": "BBC",
-      "description": "News, Dramaa & Factual",
+      "description": "News, Drama & Factual",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio04.png"
     },
@@ -42,7 +42,7 @@
     },
         {
       "id": "lbc_news_live",
-      "title": "Where News Never Stops",
+      "title": "News & Analysis",
       "artist": "LBC",
       "description": "UK News & Analysis",
       "streamUrl": "https://media-ssl.musicradio.com/LBCUK",
@@ -50,7 +50,7 @@
     },
         {
       "id": "lbc_news_uk",
-      "title": "Leading Britain's Conversation",
+      "title": "UK News",
       "artist": "LBC",
       "description": "UK News & Analysis",
       "streamUrl": "https://media-ssl.musicradio.com/LBCNewsUK",
@@ -58,7 +58,7 @@
     },
         {
       "id": "us_wnyc",
-      "title": "New York Public Radio",
+      "title": "New York: Public Radio",
       "artist": "WNYC",
       "description": "News, Shows & Analysis",
       "streamUrl": "https://njpr.wnyc.org/wnycfm",
@@ -82,7 +82,7 @@
     },
         {
       "id": "us_fox_new",
-      "title": "News US",
+      "title": "News: US",
       "artist": "FOX",
       "description": "News & Analysis",
       "streamUrl": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc",
@@ -103,21 +103,49 @@
       "description": "Arabic News & Documentaries",
       "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
+    },            {
+      "id": "tr_trt_radyo3",
+      "title": "Radyo 3",
+      "artist": "TRT",
+      "description": "Classic Music & High Culture",
+      "streamUrl": "https://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio15.png"
+    },            {
+      "id": "tr_pal_nostalji",
+      "title": "Pal Nostalji",
+      "artist": "PAL",
+      "description": "Nostalji & Folklore",
+      "streamUrl": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio16.png"
+    },            {
+      "id": "tr_ntv_radyo",
+      "title": "NTV Haber",
+      "artist": "NTV",
+      "description": "News & Analysis",
+      "streamUrl": "http://ntvrdwmp.radyotvonline.com/",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio17.png"
+    },,            {
+      "id": "tr_kafa_radyo",
+      "title": "Kafa Rayo",
+      "artist": "KAFA",
+      "description": "News & Talk",
+      "streamUrl": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio18.png"
     },
             {
       "id": "tr_joy_fm",
-      "title": "Enjoy The Life: Easy Listening",
-      "artist": "Joy FM",
+      "title": "Joy FM",
+      "artist": "JOY",
       "description": "Slow Music & Hits",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio14.png"
-    }
-    
+    } 
     
   ]
 }
 
        
+
 
 
 
