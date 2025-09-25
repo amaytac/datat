@@ -103,12 +103,22 @@
       "description": "Arabic News & Documentaries",
       "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
+    },
+            {
+      "id": "tr_joy_fm",
+      "title": "Enjot The Life: Easy Listening",
+      "artist": "Joy FM",
+      "description": "Slow Music & ",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio14.png"
     }
+    
     
   ]
 }
 
        
+
 
 
 
