@@ -102,19 +102,18 @@
       "description": "English News & Documentaries",
       "streamUrl": "https://live-hls-aje-ak.getaj.net/AJE/06.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio12.png"
-    },
-            {
+    },  {
       "id": "ar_al_jazeera",
       "title": "Arabic News",
       "artist": "Al Jazeera",
       "description": "Arabic News & Documentaries",
       "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
-    }, {
+    },  {
       "id": "us_bloomberg_radio",
       "title": "Market News",
-      "artist": "Blomberg",
-      "description": "Fina RAdionce, Economics & Analysis",
+      "artist": "Blomberg Radio",
+      "description": "Finance, Economics & Analysis",
       "streamUrl": "https://bloomberg-live-prod-us-west-2.s3.amazonaws.com/rad/Channel-RAD-AWS-oregon-1/Source-RadUK-96-2_live.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio22.png" 
     }, {
@@ -167,6 +166,7 @@
 }
 
        
+
 
 
 
