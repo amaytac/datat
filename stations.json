@@ -146,12 +146,21 @@
       "description": "Slow Music & Hits",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio14.png"
-    }    
+    } ,
+            {
+      "id": "tr_ntv_fm",
+      "title": "NTV Haber",
+      "artist": "NTV",
+      "description": "News & Analysis",
+      "streamUrl": "http://ntvrdsc.radyotvonline.com/ntvradyoaac",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radioama.png"
+    }     
     
   ]
 }
 
        
+
 
 
 
