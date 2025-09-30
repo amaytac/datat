@@ -22,14 +22,7 @@
       "description": "Music, Show & Talk",
       "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-dance.png"
-    },         {
-      "id": "bbc_one_anthems",
-      "title": "Radio 1 Anthems",
-      "artist": "BBC",
-      "description": "Music, Show & Talk",
-      "streamUrl": "http://as-hls-uk-live.akamaized.net/pool_11351741/live/uk/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-anthems.png"
-    },        
+    },      
     {
       "id": "bbc_radio_two",
       "title": "Radio 2",
@@ -250,6 +243,7 @@
 }
 
        
+
 
 
 
