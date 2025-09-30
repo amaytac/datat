@@ -14,14 +14,21 @@
       "artist": "BBC",
       "description": "Music, Show & Talk",
       "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-extra.svg"
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-1xtra.png"
     },         {
       "id": "bbc_one_dance",
       "title": "Radio 1 Dance",
       "artist": "BBC",
       "description": "Music, Show & Talk",
-      "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-extra.png"
+      "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-dance.png"
+    },         {
+      "id": "bbc_one_anthems",
+      "title": "Radio 1 Anthems",
+      "artist": "BBC",
+      "description": "Music, Show & Talk",
+      "streamUrl": "http://as-hls-uk-live.akamaized.net/pool_11351741/live/uk/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio01-anthems.png"
     },        
     {
       "id": "bbc_radio_two",
@@ -38,6 +45,14 @@
       "description": "Classical Music, High Culture",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio03.png"
+    },
+            {
+      "id": "bbc_radio_three_unwind",
+      "title": "Radio 3",
+      "artist": "BBC",
+      "description": "Classical Music, High Culture",
+      "streamUrl": "http://as-hls-uk-live.akamaized.net/pool_30624046/live/uk/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d320000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio03-unwind.png"
     },
         {
       "id": "bbc_radio_fourfm",
@@ -221,6 +236,7 @@
 }
 
        
+
 
 
 
