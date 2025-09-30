@@ -69,7 +69,7 @@
       "title": "Wisconsin Public Radio",
       "artist": "WPR",
       "description": "News & Talk",
-      "streamUrl": "https://wpr-ice.streamguys1.com/wpr-events-mp3",
+      "streamUrl": "http://wpr-ice.streamguys.net/wpr-ideas-aac-32,
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio26.png"
     }, 
       {
@@ -206,6 +206,7 @@
 }
 
        
+
 
 
 
