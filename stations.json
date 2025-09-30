@@ -32,8 +32,56 @@
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio04.png"
     },
+     {
+      "id": "us_wnyc",
+      "title": "New York: Public Radio",
+      "artist": "WNYC",
+      "description": "News, Shows & Analysis",
+      "streamUrl": "https://njpr.wnyc.org/wnycfm",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio08.png"
+    },
+     {
+      "id": "us_kqed_fm",
+      "title": "Public Radio for the Bay Area",
+      "artist": "KQED",
+      "description": "News & Talk",
+      "streamUrl": "https://hls.kqed.org/kqed-iheart/playlist.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio23.png"
+    },
+      {
+      "id": "us_kpcc_laist",
+      "title": "Southern Californio Public Radio",
+      "artist": "KPCC",
+      "description": "News & Talk",
+      "streamUrl": "https://live.amperwave.net/direct/southerncalipr-kpccfmmp3-imc",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio24.png"
+    },  
+      {
+      "id": "us_kalw",
+      "title": "Southern Californio Public Radio",
+      "artist": "KALW",
+      "description": "News & Talk",
+      "streamUrl": "https://kalw-live.streamguys1.com/kalw.aac",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio25.png"
+    },  
+      {
+      "id": "us_wpr",
+      "title": "Wisconsin Public Radio",
+      "artist": "WPR",
+      "description": "News & Talk",
+      "streamUrl": "https://wpr-ice.streamguys.net/wpr-ideas-aac-32",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio26.png"
+    }, 
+      {
+      "id": "us_wbez",
+      "title": "News and Talk",
+      "artist": "WBEZ",
+      "description": "News & Talk",
+      "streamUrl": "https://stream.wbez.org/wbez64-web.aac2",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio27.png"
+    }, 
     {
-      "id": "bbc_bowld_service",
+      "id": "bbc_world_service",
       "title": "World Service",
       "artist": "BBC",
       "description": "Global News & Analysis",
@@ -55,14 +103,6 @@
       "description": "UK News & Analysis",
       "streamUrl": "https://media-ssl.musicradio.com/LBCNewsUK",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio07.png"
-    },
-        {
-      "id": "us_wnyc",
-      "title": "New York: Public Radio",
-      "artist": "WNYC",
-      "description": "News, Shows & Analysis",
-      "streamUrl": "https://njpr.wnyc.org/wnycfm",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio08.png"
     },
         {
       "id": "lbc_classic_fm",
@@ -166,6 +206,7 @@
 }
 
        
+
 
 
 
