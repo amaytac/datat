@@ -76,6 +76,13 @@
       "description": "News, Shows & Analysis",
       "streamUrl": "https://njpr.wnyc.org/wnycfm",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio08.png"
+    },{
+      "id": "us_npr",
+      "title": "National Public Radio",
+      "artist": "NPR",
+      "description": "News & Talk",
+      "streamUrl": "https://npr-ice.streamguys1.com/live.aac",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio28.png"
     },
      {
       "id": "us_kqed_fm",
@@ -243,6 +250,7 @@
 }
 
        
+
 
 
 
