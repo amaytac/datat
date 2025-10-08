@@ -69,6 +69,29 @@
       "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio06-music.png"
     },{
+      "id": "bbc_radio_cambridge",
+      "title": "Radio Cambridge",
+      "artist": "BBC",
+      "description": " Music & Talk",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_21074581/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio29.png"
+    },{
+      "id": "bbc_radio_oxford",
+      "title": "Radio Oxford",
+      "artist": "BBC",
+      "description": " Music & Talk",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_19212690/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio30.png"
+    },
+    {
+      "id": "lbc_classic_fm",
+      "title": "Classic FM",
+      "artist": "LBC",
+      "description": "Classic Music & High Culture",
+      "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio09.png"
+    },
+    {
       "id": "us_npr",
       "title": "National Public Radio",
       "artist": "NPR",
@@ -147,14 +170,6 @@
       "description": "UK News & Analysis",
       "streamUrl": "https://media-ssl.musicradio.com/LBCNewsUK",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio07.png"
-    },
-        {
-      "id": "lbc_classic_fm",
-      "title": "Classic FM",
-      "artist": "LBC",
-      "description": "Classic Music & High Culture",
-      "streamUrl": "https://media-ssl.musicradio.com/ClassicFM",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio09.png"
     },
         {
       "id": "cnn_int",
@@ -250,6 +265,7 @@
 }
 
        
+
 
 
 
