@@ -69,6 +69,13 @@
       "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio06-music.png"
     },{
+      "id": "bbc_radio_ulster",
+      "title": "Radio Ulster",
+      "artist": "BBC",
+      "description": " Music & Talk",
+      "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio31.png"
+    },{
       "id": "bbc_radio_cambridge",
       "title": "Radio Cambridge",
       "artist": "BBC",
@@ -265,6 +272,7 @@
 }
 
        
+
 
 
 
