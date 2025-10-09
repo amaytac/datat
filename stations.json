@@ -161,6 +161,14 @@
       "description": "Global News & Analysis",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio05.png"
+    }, 
+    {
+      "id": "bbc_sound_news",
+      "title": "Live News",
+      "artist": "BBC",
+      "description": "Global News & Analysis",
+      "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sound_news/bbc_sound_news.isml/bbc_sound_news-audio%3d96000.norewind.m3u8",
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio31.png"
     },
         {
       "id": "lbc_news_live",
@@ -272,6 +280,7 @@
 }
 
        
+
 
 
 
