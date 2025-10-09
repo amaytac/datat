@@ -168,7 +168,7 @@
       "artist": "BBC",
       "description": "Global News & Analysis",
       "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sound_news/bbc_sound_news.isml/bbc_sound_news-audio%3d96000.norewind.m3u8",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio31.png"
+      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio32.png"
     },
         {
       "id": "lbc_news_live",
@@ -280,6 +280,7 @@
 }
 
        
+
 
 
 
