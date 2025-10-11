@@ -163,7 +163,7 @@
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/icon-radio05.png"
     }, 
     {
-      "id": "bbc_sound_news",
+      "id": "bbc_sounds_news",
       "title": "Live News",
       "artist": "BBC",
       "description": "Global News & Analysis",
@@ -280,6 +280,7 @@
 }
 
        
+
 
 
 
