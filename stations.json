@@ -235,7 +235,7 @@
       "title": "Market News",
       "artist": "Blomberg Radio",
       "description": "Finance, Economics & Analysis",
-      "streamUrl": "https://bloomberg-live-prod-us-west-2.s3.amazonaws.com/rad/Channel-RAD-AWS-oregon-1/Source-RadUK-96-2_live.m3u8",
+      "streamUrl": "https://17563.live.streamtheworld.com/WBBRAMAAC48/HLS/459cb257-4f80-47ea-9df0-290b8064023c/0/playlist.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio22.png" 
     }, {
       "id": "tr_trt_radyo3",
@@ -287,6 +287,7 @@
 }
 
        
+
 
 
 
