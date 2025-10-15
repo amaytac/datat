@@ -193,6 +193,13 @@
       "description": "News & Analysis",
       "streamUrl": "https://tunein.cdnstream1.com/3519_96.aac",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio10.png"
+    },        {
+      "id": "cnn_us",
+      "title": "News: US",
+      "artist": "CNN",
+      "description": "News & Analysis",
+      "streamUrl": "https://tunein.cdnstream1.com/2868_96.mp3",
+      "artWorkUri": "https://edition.cnn.com/audio/static/images/live/CNN-m.4945681d.png"
     },
         {
       "id": "us_fox_new",
@@ -280,6 +287,7 @@
 }
 
        
+
 
 
 
