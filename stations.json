@@ -191,7 +191,7 @@
       "title": "News: International",
       "artist": "CNN",
       "description": "News & Analysis",
-      "streamUrl": "https://dt-live-bc.ercdn.com/bc/cnnint/cnnint.isml/cnnint-audio_tur=128000-video=1800000.m3u8?st=4gDHKSFWQfnzj4VDWLDHIQ&e=1760569981&userid=ed14447148",
+      "streamUrl": "http://tunein.streamguys1.com/CNNi"
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio10.png"
     },
         {
@@ -209,14 +209,6 @@
       "description": "News & Analysis",
       "streamUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio19.png"
-    },    
-                {
-      "id": "eu_euro_news",
-      "title": "Live TV",
-      "artist": "Euro News",
-      "description": "News & Analysis",
-      "streamUrl": "https://dt-euronews-hls.mncdn.com/digiturk_euronews_hls/bc/euronews/euronews.isml/euronews-audio_tur=128000-video=1800000.m3u8?st=VcP0zNIq9LxMBV3MSf-14Q&e=1760567154&userid=md14447148",
-      "artWorkUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUbMs8TIC7AquVpUd8VcfdJk9_M5GP-FklQ&s"
     }, {
       "id": "en_al_jazeera",
       "title": "English News",
@@ -232,18 +224,11 @@
       "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
     },  {
-      "id": "ch_cgtn",
-      "title": "China International",
-      "artist": "CGTN",
-      "description": "News & Analysis",
-      "streamUrl": "https://dt-live-bc.ercdn.com/bc/cgtn/cgtn.isml/cgtn-audio_tur=128000-video=1800000.m3u8?st=ehdu2ygLLBa5BbOTEqzWRQ&e=1760570844&userid=ed14447148",
-      "artWorkUri": "https://play-lh.googleusercontent.com/EQck_ZkNNkFgDbg3Z_cyMMnoQxY9nLqBAfHNXuwRQn1xdFfYMivQCeL_egr_DfUdYQ"
-    }, {
       "id": "us_bloomberg_radio",
       "title": "Market News",
       "artist": "Blomberg Radio",
       "description": "Finance, Economics & Analysis",
-      "streamUrl": "https://dt-live-bc.ercdn.com/bc/bloomberg/bloomberg.isml/bloomberg-audio_tur=128000-video=1800000.m3u8?st=YmdzY0T8p_3wd2n4e4LnSQ&e=1760568814&userid=ed14447148",
+      "streamUrl": "https://bloomberg-live-prod-us-west-2.s3.amazonaws.com/rad/Channel-RAD-AWS-oregon-1/Source-RadUK-96-2_live.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio22.png" 
     }, {
       "id": "tr_trt_radyo3",
@@ -295,6 +280,7 @@
 }
 
        
+
 
 
 
