@@ -239,9 +239,9 @@
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
     },  {
       "id": "sy_rojava_radio",
-      "title": "Arabic News",
+      "title": "Kurdish & Arabic Radio",
       "artist": "Rojava FM",
-      "description": "Finance, Economics & Analysis",
+      "description": "Music, News & Talk",
       "streamUrl": "https://streams.programmes-radio.com/?k=AchAi25&stream=http://5.9.71.122:8094/;",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio33.jpg" 
     }, {
@@ -294,6 +294,7 @@
 }
 
        
+
 
 
 
