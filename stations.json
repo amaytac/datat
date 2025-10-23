@@ -237,6 +237,13 @@
       "description": "Arabic News & Documentaries",
       "streamUrl": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio13.png"
+    },   {
+      "id": "ar_sky_news",
+      "title": "سكاي نيوز عربية",
+      "artist": "SKY News",
+      "description": "Arabic News & Documentaries",
+      "streamUrl": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
+      "artWorkUri": "https://yt3.googleusercontent.com/C_tTYi9T3TlVewh6A5Yon_NOd3XxSjAduqRCqhaUcHkNGt67zyD0Cb6jJePYZTUMw-0VQt9TCA=s900-c-k-c0x00ffffff-no-rj"
     },  {
       "id": "sy_rojava_radio",
       "title": "Kurdish & Arabic Radio",
@@ -294,6 +301,7 @@
 }
 
        
+
 
 
 
