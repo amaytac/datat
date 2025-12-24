@@ -191,7 +191,7 @@
       "title": "News: International",
       "artist": "CNN",
       "description": "News & Analysis",
-      "streamUrl": "https://tunein.cdnstream1.com/3519_96.aac",
+      "streamUrl": "https://tunein.cdnstream1.com/3519_96.mp3",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio10.png"
     },        {
       "id": "cnn_us",
@@ -301,6 +301,7 @@
 }
 
        
+
 
 
 
