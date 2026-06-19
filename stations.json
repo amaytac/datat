@@ -244,14 +244,8 @@
       "description": "Arabic News & Documentaries",
       "streamUrl": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
       "artWorkUri": "https://yt3.googleusercontent.com/C_tTYi9T3TlVewh6A5Yon_NOd3XxSjAduqRCqhaUcHkNGt67zyD0Cb6jJePYZTUMw-0VQt9TCA=s900-c-k-c0x00ffffff-no-rj"
-    },  {
-      "id": "sy_rojava_radio",
-      "title": "Kurdish & Arabic Radio",
-      "artist": "Rojava FM",
-      "description": "Music, News & Talk",
-      "streamUrl": "https://streams.programmes-radio.com/?k=AchAi25&stream=http://5.9.71.122:8094/;",
-      "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio33.jpg" 
-    }, {
+    },
+    {
       "id": "tr_trt_radyo3",
       "title": "Radyo 3",
       "artist": "TRT",
