@@ -228,7 +228,7 @@
       "title": "English News",
       "artist": "Al Jazeera",
       "description": "English News & Documentaries",
-      "streamUrl": "https://live-hls-aje-ak.getaj.net/AJE/06.m3u8",
+      "streamUrl": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
       "artWorkUri": "https://raw.githubusercontent.com/amaytac/datat/refs/heads/main/radio12.png"
     },  {
       "id": "ar_al_jazeera",
